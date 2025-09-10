@@ -106,4 +106,4 @@ Through these steps, I was able to practice combining slicing for structured sel
 
 ---
 
-✨ This experiment highlights practical Pandas operations: loading datasets, exploring rows, filtering data, and extracting subsets of information.  
+This experiment highlights practical Pandas operations: loading datasets, exploring rows, filtering data, and extracting subsets of information.  
